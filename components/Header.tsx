@@ -38,7 +38,6 @@ export default function Header({}: Props) {
         transition={{ duration: 1.5 }}
         className='flex flex-row items-center'
       >
-        <SocialIcon/>
       </motion.div>
     </header>
   )

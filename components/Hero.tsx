@@ -3,7 +3,7 @@ import React from 'react'
 import { Cursor, useTypewriter } from 'react-simple-typewriter'
 import BackgroundCircles from './BackgroundCircles'
 import logo from '../assets/rami-icon.png'
-import fotoPerfil from '../assets/cvimg.png'
+import fotoPerfil from '../assets/rami-icon.png'
 import Link from 'next/link'
 
 type Props = {}
@@ -11,7 +11,7 @@ type Props = {}
 export default function Hero({}: Props) {
    const [text, count] = useTypewriter({
       words: [
-         'Hi, My name`s Ramirez Alejandro', 
+         'Hi, My name`s Alejandro Ramirez', 
          'A-guy-who-loves-Cooking', 
          '<ButLovesToCodeMore/>'
       ],

@@ -36,7 +36,7 @@ const About = (props: Props) => {
           }}
           src="https://avatars.githubusercontent.com/u/96086242?v=4"
           alt="perfil"
-          className="-mb-20 md:mb-0 flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-64 md:h-95 xl:w-[300px] xl:h-[400px]"
+          className="-mb-20 md:mb-0 flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-64 md:h-95 xl:w-[700px] xl:h-[400px]"
         />
       </div>
       <div className="space-y-7 px-0 md:px-10">
@@ -46,9 +46,14 @@ const About = (props: Props) => {
           background
         </h4>
         <p className="text-sm">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime vero
-          autem tempore delectus unde cum enim nulla nemo magnam! Quos sapiente
-          odit, eos unde distinctio provident culpa ratione atque asperiores?
+          With a passion for back-end development and a drive to stay ahead in
+          the ever-evolving tech landscape, I dedicated myself to mastering this
+          area. Continuous learning and growth are at the core of my
+          professional philosophy, and I'm excited to explore new opportunities
+          where I can apply my skills and contribute to cutting-edge projects.
+          If you have any exciting projects, collaboration opportunities, or
+          simply want to connect, feel free to reach out! Let's push the
+          boundaries of what's possible together!
         </p>
       </div>
     </motion.div>
